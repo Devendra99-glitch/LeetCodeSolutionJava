@@ -3,7 +3,7 @@
 // Binary search is fast.
 // This is a binary search problem when the array is already sorted.
 
-public class BinarySearch{
+public class BinarySearchAscendingOrder {
     public static void main(String[] args){
 
         System.out.println(binarySearch(new int[]{1,2,3,4,5},3)); // we simply call the method of binary search in a print statement to print the index of the target.
