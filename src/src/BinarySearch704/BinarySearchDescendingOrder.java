@@ -1,4 +1,4 @@
-// 704. BINARY SEARCH (Alternative)
+package BinarySearch704;// 704. BINARY SEARCH (Alternative)
 // In this we try to solve a problem where in the array is sorted in descending order.
 // Binary search is fast.
 

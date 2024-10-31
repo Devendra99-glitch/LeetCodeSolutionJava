@@ -1,4 +1,4 @@
-// 704. BINARY SEARCH
+package BinarySearch704;// 704. BINARY SEARCH
 // The data structure should always be sorted for binary search to work.
 // Binary search is fast.
 // This is a binary search problem when the array is already sorted.
